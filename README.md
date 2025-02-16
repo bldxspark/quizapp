@@ -36,6 +36,7 @@ Simply open the index.html file in your favorite browser to run the quiz!
 🛠️ File Structure
 
 quizapp/
+
 │── index.html      # Main HTML file  
 │── styles.css      # CSS file for styling  
 │── script.js       # JavaScript file for quiz logic  
