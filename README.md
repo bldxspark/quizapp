@@ -17,7 +17,9 @@ A beginner-friendly Quiz App built using HTML, CSS, and JavaScript. This project
 📌 Technologies Used
 
 HTML → For structuring the quiz
+
 CSS → For styling the app
+
 JavaScript → For handling quiz logic
 
 📥 Installation & Usage
