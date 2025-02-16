@@ -14,9 +14,9 @@ JAVASCRIPT
 
 📌 How to Run
 Clone the repository:
-bash
-Copy code
+
 git clone https://github.com/bldxspark/quizapp.git
+
 Navigate to the project directory:
 
 cd quizapp
