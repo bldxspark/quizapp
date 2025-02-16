@@ -16,7 +16,7 @@ JavaScript → For handling quiz logic
 📥 Installation & Usage
 
 1. Clone the Repository
-git clone https://github.com/bldxspark/quiz-app.git
+git clone https://github.com/bldxspark/quizapp.git
 
 2. Navigate to the Project Directory
 cd quizapp
