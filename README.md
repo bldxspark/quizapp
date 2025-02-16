@@ -1,33 +1,51 @@
-📚 Quiz App 🎯
-A fun and interactive quiz application that tests users’ knowledge across multiple categories. Built for both learning and entertainment, this app offers a seamless experience with engaging quizzes, time-based challenges, and leaderboards.
+🎯 Simple JavaScript Quiz App
+A beginner-friendly Quiz App built using HTML, CSS, and JavaScript. This project helps in learning DOM manipulation, event handling, and basic JavaScript logic.
 
 🚀 Features
-Multiple quiz categories 📖
-Timed and untimed quiz modes ⏳
-Score tracking and leaderboards 🏆
-Responsive and user-friendly UI 🎨
-Easy to expand with new questions ✍️
-🛠️ Technologies Used
-HTML
-CSS 
-JAVASCRIPT
+✅ Displays multiple-choice questions one by one
+✅ Highlights correct and incorrect answers
+✅ Tracks and displays the final score
+✅ Simple and responsive UI
+✅ Option to restart the quiz
 
-📌 How to Run
-Clone the repository:
+📌 Technologies Used
+HTML → For structuring the quiz
+CSS → For styling the app
+JavaScript → For handling quiz logic
 
-git clone https://github.com/bldxspark/quizapp.git
+📥 Installation & Usage
 
-Navigate to the project directory:
+1. Clone the Repository
+git clone https://github.com/bldxspark/quiz-app.git
 
+2. Navigate to the Project Directory
 cd quizapp
 
-Install dependencies:
+3. Open index.html in a Browser
+Simply open the index.html file in your favorite browser to run the quiz!
 
-npm install  # or yarn install
+🛠️ File Structure
+quizapp/
+│── index.html      # Main HTML file  
+│── styles.css      # CSS file for styling  
+│── script.js       # JavaScript file for quiz logic  
+│── README.md       # Project documentation  
 
-Start the application:
+🎮 How to Play?
+Click on the correct answer from the given options.
+The app will highlight correct and incorrect answers.
+Click "Next" to proceed to the next question.
+After finishing all questions, your final score will be displayed.
+Refresh the page to restart the quiz.
 
-npm start  # or yarn start
+💡 Future Improvements
+🔹 Add a timer for each question ⏳
+🔹 Store high scores using LocalStorage 💾
+🔹 Add more quiz categories 🎭
 
-💡 Contribution
-Feel free to fork this repo, submit issues, or create pull requests to enhance the project!
+🤝 Contribution
+Feel free to fork this repo, submit issues, or suggest improvements!
+
+📜 License
+This project is open-source and available under the MIT License.
+
